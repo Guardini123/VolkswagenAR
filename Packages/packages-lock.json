@@ -8,7 +8,7 @@
       "url": "https://package.openupm.com"
     },
     "com.ptc.vuforia.engine": {
-      "version": "file:D:/Programming/Unity/modules/com.ptc.vuforia.engine-10.1.4.tgz",
+      "version": "file:D:/job/Unity_main_folder/unity_works/com.ptc.vuforia.engine-10.1.4.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {
