@@ -1,2 +1,2 @@
 # VolkswagenAR
-Приложение для Volkswagen с дополненной реальностью (Vuforia) на Unity3D.
+Приложение для автосалона Volkswagen в Петрозаводске с дополненной реальностью (Vuforia) на Unity3D.
