@@ -15,6 +15,8 @@ public class ProgresSliderUi : MonoBehaviour
     [SerializeField] private TMP_Text _actionForTasks;
     [SerializeField] private string _startText;
     [SerializeField] private string _progressText;
+    [SerializeField] private string _congatPrefix;
+    [SerializeField] private string _congatPostfix;
     [SerializeField] private string _endText;
 
     private float _step;
@@ -53,6 +55,6 @@ public class ProgresSliderUi : MonoBehaviour
         }
 
         if (_countPerformedTasks > 0) _actionForTasks.text = _progressText;
-        if (_countPerformedTasks == _tasksKeys.Count) _actionForTasks.text = _endText;
+        if (_countPerformedTasks == _tasksKeys.Count) _actionForTasks.text = _congatPrefix + username + _congatPostfix + _endText;
     } 
 }
