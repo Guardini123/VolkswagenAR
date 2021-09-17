@@ -12,26 +12,20 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/single_tasks/task_1.unity
-    guid: 02286882ef128af498e6975146c072cc
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 1
     path: Assets/Scenes/single_tasks/task_3.unity
     guid: e114641ad30550e4fa2f7aebae6982bd
   - enabled: 1
+    path: Assets/Scenes/single_tasks/task_1.unity
+    guid: 02286882ef128af498e6975146c072cc
+  - enabled: 1
     path: Assets/Scenes/single_tasks/task_4.unity
     guid: a29eda7762608e045b5d297e34e11c75
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/single_tasks/task_5.unity
+    guid: e99d58b7695ad154ba5fd6e90918e745
   - enabled: 1
     path: Assets/Scenes/single_tasks/task_6.unity
     guid: 433eecae58d8b3f49896b1b6328080d1
-  - enabled: 1
-    path: Assets/Scenes/single_tasks/task_5.unity
-    guid: aa4edd0eae9e59646991ef270b76f344
   - enabled: 1
     path: Assets/Scenes/pic_in_pic.unity
     guid: 2f0135c39a953964f9cf5465d0e090e5

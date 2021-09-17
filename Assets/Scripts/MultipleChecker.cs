@@ -27,13 +27,13 @@ public class MultipleChecker : MonoBehaviour
 	}
 
 
-	public bool Check()
+	public void Check()
 	{
 		foreach(var check in _checks)
 		{
-			if (!check) return false;
+			if (!check) return;
 		}
 		OnChecksReady?.Invoke();
-		return true;
+		return;
 	}
 }
