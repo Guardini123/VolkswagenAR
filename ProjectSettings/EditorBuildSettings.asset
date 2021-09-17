@@ -32,10 +32,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/single_tasks/task_5.unity
     guid: aa4edd0eae9e59646991ef270b76f344
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/pic_in_pic.unity
     guid: 2f0135c39a953964f9cf5465d0e090e5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/TAOS.unity
     guid: 332bdfa94f3fb0a4a8c40faa4db9074b
   m_configObjects: {}
